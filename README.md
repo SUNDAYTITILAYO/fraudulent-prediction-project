@@ -1,1 +1,1 @@
-# fraudulent-prediction-project
+# fraudulent-transaction-prediction-project
