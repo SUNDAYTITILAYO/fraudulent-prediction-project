@@ -41,6 +41,5 @@ Financial institutions require transparent and explainable fraud detection syste
 Because NovaPay operates in a fast-paced digital payment environment, fraud detection decisions must occur instantly without slowing down transaction processing.
 
 
-
 ## Target Variable
 The target variable for this project is: is_fraud. This variable represents whether a transaction is fraudulent or legitimate. The target variable is encoded in 1 and 0, where 0 represent legitimate transaction and 1 represent fraudulent transaction.
