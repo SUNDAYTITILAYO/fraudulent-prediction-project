@@ -38,7 +38,7 @@ Financial institutions require transparent and explainable fraud detection syste
 
 6 Need for Real-Time Detection
 
-Because NovaPay operates in a fast-paced digital payment environment, fraud detection decisions must occur instantly without slowing down transaction processing.
+## Because NovaPay operates in a fast-paced digital payment environment, fraud detection decisions must occur instantly without slowing down transaction processing.
 -------
 
 
