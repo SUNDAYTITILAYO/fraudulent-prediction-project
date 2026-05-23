@@ -24,22 +24,22 @@ Delayed transactions
 Increased customer dissatisfaction
 Higher manual review costs
 
-3 Global Scalability Issues
+3. Global Scalability Issues
 
 As NovaPay expands internationally, transaction volumes continue to grow rapidly. The current fraud detection framework struggles to scale efficiently with increasing real-time transaction demands.
 
-4 Lack of Adaptability
+4. Lack of Adaptability
 
 Traditional rule-based systems require constant manual updates and are unable to adapt quickly to emerging fraud behaviors and transaction anomalies.
 
-5 Regulatory and Compliance Requirements
+5. Regulatory and Compliance Requirements
 
 Financial institutions require transparent and explainable fraud detection systems. NovaPay needs a solution capable of providing interpretable fraud predictions to satisfy compliance and regulatory standards.
 
 6 Need for Real-Time Detection
 
 Because NovaPay operates in a fast-paced digital payment environment, fraud detection decisions must occur instantly without slowing down transaction processing.
--------
+
 
 
 ## Target Variable
