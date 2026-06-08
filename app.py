@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load("Models/random_forest_model.pkl")
+model = joblib.load("Model/random_forest_model.pkl")
 st.title("NovaPay Fraud Detection App")
 st.write("Enter transaction details to predict fraud risk.")
-preprocessor = joblib.load("Models/preprocessor.pkl")
+preprocessor = joblib.load("Model/preprocessor.pkl")
 
 
 home_country = st.selectbox("Home Country", ["us", "uk", "ca", "unknown"])
